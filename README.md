@@ -1,7 +1,7 @@
 # Enhancing Twin Delayed Deep Deterministic Policy Gradient with Cross-Entropy Method
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
 
-Quan Minh Phan, Ngoc Hoang Luong
+Hieu Trung Nguyen, Khang Tran and Ngoc Hoang Luong
 <!-- In NICS 2021. -->
 ## Setup
 - Clone this repo: 

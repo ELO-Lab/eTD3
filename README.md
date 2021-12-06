@@ -27,5 +27,5 @@ python3 mujoco_td3_mod_v3.py --task [environment_name] --seed [seed] --logdir [l
 
 ## Acknowledgement
 Our source code is inspired by:
-- [CEM-RL by Apourchot et al.](https://github.com/apourchot/CEM-RL)
+- [CEM-RL by Pourchot et al.](https://github.com/apourchot/CEM-RL)
 - [Tianshou library](https://github.com/thu-ml/tianshou/tree/master/examples/mujoco)

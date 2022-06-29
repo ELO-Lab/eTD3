@@ -11,7 +11,7 @@ $ cd eTD3
 ```
 - The following packages are needed:
 ```
-tianshou==0.4.4
+tianshou==0.4.2
 gym==0.19.0
 mujoco_py==2.0.2.13 (need to install mujoco200 from http://www.mujoco.org/)
 ```
@@ -22,6 +22,8 @@ mujoco_py==2.0.2.13 (need to install mujoco200 from http://www.mujoco.org/)
 ```
 python3 mujoco_td3_mod_v3.py --task [environment_name] --seed [seed] --logdir [log_directory]
 ```
+###
+Try this google colab notebook to run our code without local installation.
 
 ### Visualize (comming soon)
 
